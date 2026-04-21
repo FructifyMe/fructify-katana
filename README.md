@@ -11,14 +11,18 @@ Shared workspace for **Katana** (Drew Fitchett, managed IT services). This repo 
 
 | File | Purpose |
 |---|---|
-| `AI Enablement/Katana-AI-for-Clients-Primer-v3.docx` | **Current meeting doc.** 15-section primer equipping Drew to run AI conversations with his clients. Covers client-question crib sheet, use cases, service catalog, integrations, skills/plugins/agents glossary, provider landscape, enterprise licensing, data-location posture, security, 4D framework, setup flow, wholesale/reseller paths, technical specs, 30/60/90 plan. |
+| `AI Enablement/Katana-AI-for-Clients-Primer-v3.pdf` | **Current meeting doc (Fructify-branded PDF).** 16-section primer equipping Drew to run AI conversations with his clients. Covers client-question crib sheet, role-by-role buyer map, verticals, service catalog, integration approaches (MCP vs API vs CLI vs native), vendor landscape, enterprise/vertical AI, data readiness, security/governance, 4D framework, environment standardization, commercial-model open questions (deliberately unfilled — Drew's call), and 30-day action plan. Vendor prices are shown as vendor list prices only; Katana's own fees are not asserted in this document. |
 | `AI Enablement/Katana-Client-AI-Offer-Brief-v2.docx` | Earlier iteration focused on the 5-offer service menu. Retained as companion reference. |
 | `AI Enablement/Katana-AI-Briefing-v1.docx` | Deeper internal reference: Claude vs. Copilot matrix + internal AI ops. 4D-framework-centered. |
 | `Profile/Drew-and-Katana-Overview.docx` | Overview of Drew's background, Anchor service catalog, and Katana positioning draft. |
 
 ## How to use
 
-Pull the docx files into Word or Google Docs to read, edit, and share. Each doc is self-contained.
+Open the PDF in any reader; open the docx files in Word or Google Docs. Each doc is self-contained.
+
+## Branding
+
+All current and future primary deliverables are produced with Fructify LLC branding — navy `#0D1B2A`, accent green `#7CB342`, Inter typography, tagline *Cultivate growth, engineer success.* Co-branded with Katana.
 
 ---
 
